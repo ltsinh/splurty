@@ -1,4 +1,4 @@
 class QuotesController < ApplicationController
   def index
-  end
+  @quote = Quote.first
 end
