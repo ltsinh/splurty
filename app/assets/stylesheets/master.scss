@@ -38,6 +38,9 @@
 .links a {
   color: black;
   font-size: 25px;
+  border-bottom: 1px solid #dfdfdf;
+  font-family: 'geometria-light', sans-serif;
+  font-weight: bold;
 }
 
 hr {
@@ -45,11 +48,14 @@ hr {
 }
 
 h1 {
-  font-family: 'Overpass', sans-serif;
+  font-family: 'geometria-light', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+
 
 }
 
 h2 {
-  font-family: 'Overpass', sans-serif;
+  font-family: 'geometria-light', sans-serif;
 
 }
